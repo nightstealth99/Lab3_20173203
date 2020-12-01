@@ -34,7 +34,7 @@ public class OMSUser extends JFrame {
 
 
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setTitle("Online Media System for User");
+		setTitle("Online Media System for User 20173203 Nguyễn Đăng Trung Kiên");
 		setSize(WINDOW_WIDTH, WINDOW_HEIGHT);
 		setVisible(true);
 	}
